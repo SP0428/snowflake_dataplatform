@@ -19,3 +19,4 @@ This is the list of data files/data folders used to load.
       CodeMappingData.txt (file)
 
 Download all these files/folder into C:\snowflake\data\input\ on local drive to load data into snowflake instance
+--Siva Updated
